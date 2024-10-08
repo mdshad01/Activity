@@ -1,0 +1,2 @@
+# Activity
+Generate random color
